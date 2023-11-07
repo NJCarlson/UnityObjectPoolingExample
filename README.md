@@ -1,2 +1,2 @@
 # UnityObjectPoolingExample
- A test environment to demonstrate different methods of object pooling in Unity
+ An old example project meant to experiment with and demonstrate different methods of object pooling in Unity
